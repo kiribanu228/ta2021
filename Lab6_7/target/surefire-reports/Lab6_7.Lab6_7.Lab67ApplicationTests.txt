@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Lab6_7.Lab6_7.Lab67ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.958 s - in Lab6_7.Lab6_7.Lab67ApplicationTests
